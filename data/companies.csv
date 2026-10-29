@@ -1,0 +1,41 @@
+company_id,name,industry,headquarters,company_size,founded_year
+1,Nimbus Analytics,Data & Analytics Services,Bengaluru,1000-5000,2011
+2,Vertex Data Labs,Artificial Intelligence,Hyderabad,201-1000,2014
+3,Quantum Retail Tech,E-commerce,Bengaluru,5000-10000,2009
+4,Helios FinServe,Banking & Financial Services,Mumbai,10000+,1998
+5,MedCore Systems,Healthcare Technology,Pune,1000-5000,2007
+6,Arcadia Cloudworks,Cloud Infrastructure,Hyderabad,501-1000,2013
+7,Lumen Insights,Market Research,Gurugram,201-500,2016
+8,Trellis Software,Enterprise Software,Pune,1000-5000,2005
+9,BlueOrbit Logistics,Logistics & Supply Chain,Chennai,5000-10000,2003
+10,Northwind Payments,Fintech,Bengaluru,501-1000,2015
+11,Solstice Health AI,Healthcare Technology,Hyderabad,51-200,2019
+12,Cobalt Mobility,Automotive Technology,Chennai,1000-5000,2010
+13,Pinecrest Analytics,Consulting,Mumbai,5000-10000,1996
+14,Aeris Telecom,Telecommunications,Noida,10000+,2001
+15,Zenith Retail Group,Retail,Gurugram,10000+,1994
+16,Fabricly Commerce,E-commerce,Bengaluru,501-1000,2018
+17,Ironclad Security,Cybersecurity,Pune,201-500,2012
+18,Meridian Insurance,Insurance,Mumbai,5000-10000,1988
+19,Aurora Energy Digital,Energy & Utilities,Ahmedabad,1000-5000,2006
+20,Lattice Learning,EdTech,Bengaluru,201-500,2017
+21,Sable Manufacturing Systems,Industrial IoT,Pune,1000-5000,1999
+22,Harborline Shipping Tech,Logistics & Supply Chain,Chennai,501-1000,2011
+23,Crestview Capital Analytics,Investment Management,Mumbai,201-500,2014
+24,Vireo Biotech Data,Life Sciences,Hyderabad,51-200,2020
+25,Pathway Consulting,Consulting,Gurugram,1000-5000,2004
+26,Summit Grid Tech,Energy & Utilities,Noida,5000-10000,2000
+27,Onyx Media Network,Media & Entertainment,Mumbai,501-1000,2008
+28,Cloverleaf Agritech,Agritech,Pune,201-500,2018
+29,Delta Foodworks,Consumer Goods,Bengaluru,5000-10000,1992
+30,Sterling Travel Systems,Travel & Hospitality,Gurugram,1000-5000,2002
+31,Beacon GovTech,Public Sector Technology,Noida,501-1000,2013
+32,Prism Gaming Studios,Gaming,Hyderabad,201-500,2016
+33,Falcon Aerospace Software,Aerospace,Bengaluru,1000-5000,1997
+34,Copperline Bank,Banking & Financial Services,Chennai,10000+,1995
+35,Elevate HR Cloud,HR Technology,Pune,501-1000,2015
+36,Nova Semiconductors,Semiconductors,Bengaluru,1000-5000,2009
+37,Jedwood Realty Analytics,Real Estate,Mumbai,201-500,2012
+38,Tandem Freight Cloud,Logistics & Supply Chain,Hyderabad,501-1000,2014
+39,Willow Pharma Data,Pharmaceuticals,Ahmedabad,1000-5000,2001
+40,Granite Public Cloud,Cloud Infrastructure,Bengaluru,201-500,2019

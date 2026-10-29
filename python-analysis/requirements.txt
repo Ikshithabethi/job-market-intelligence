@@ -1,0 +1,10 @@
+# Python dependencies for the data analysis scripts.
+# Install with:
+#     python3 -m pip install -r requirements.txt
+#
+# Nothing else is required: generate_seed.py only uses the standard library,
+# preprocess.py and analyze.py use pandas + scikit-learn (which pulls in numpy).
+
+pandas>=2.0,<3.0
+numpy>=1.24
+scikit-learn>=1.3,<2.0

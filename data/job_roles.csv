@@ -1,0 +1,46 @@
+role_id,title,family,seniority,description,avg_salary_min,avg_salary_max,demand_score,is_emerging
+1,Data Analyst,Data & Analytics,Entry,Turn raw business data into reports and insights that guide day to day decisions.,420000,900000,100.0,0
+2,Senior Data Analyst,Data & Analytics,Senior,Own analytical workstreams end to end and mentor junior analysts.,900000,1800000,78.6,0
+3,Business Analyst,Business & Product,Entry,"Translate business needs into requirements, process maps and measurable outcomes.",450000,1100000,89.2,1
+4,Business Intelligence Analyst,Data & Analytics,Mid,Build semantic models and dashboards that the business relies on daily.,600000,1400000,82.5,0
+5,Product Analyst,Business & Product,Mid,"Measure product usage, run experiments and inform roadmap decisions.",700000,1600000,78.5,0
+6,Marketing Analyst,Business & Product,Entry,"Analyse campaigns, channels and funnel performance to improve acquisition.",400000,950000,82.7,0
+7,Financial Analyst,Business & Product,Mid,"Build forecast models, variance analyses and investment cases.",550000,1300000,75.5,0
+8,Risk Analyst,Business & Product,Mid,"Assess credit, market and operational risk exposures with quantitative methods.",600000,1500000,76.6,0
+9,Quantitative Analyst,Data & Analytics,Senior,"Develop pricing, signal or portfolio models using statistical and numerical methods.",1200000,3000000,64.0,0
+10,Statistician,Data & Analytics,Mid,"Apply statistical methodology to study design, measurement and inference.",650000,1500000,57.5,0
+11,Analytics Engineer,Data & Analytics,Mid,Own the transformation layer between raw warehouse data and analytics models.,800000,1800000,83.4,0
+12,Data Engineer,Data Platform,Mid,Build reliable batch and streaming pipelines that move and reshape data.,700000,1700000,97.1,0
+13,Senior Data Engineer,Data Platform,Senior,Design data platform architecture and lead pipeline reliability work.,1400000,2800000,82.6,0
+14,Data Architect,Data Platform,Lead,"Define the enterprise data architecture, standards and platform roadmap.",2200000,4200000,54.8,0
+15,Data Governance Analyst,Data Platform,Mid,"Implement data quality rules, lineage, cataloguing and access policies.",700000,1600000,59.6,0
+16,Database Administrator,Data Platform,Mid,"Keep relational databases performant, backed up and highly available.",600000,1500000,69.5,0
+17,Data Scientist,Data & Analytics,Mid,Frame business problems as models and deliver measurable predictive value.,900000,2200000,93.5,0
+18,Senior Data Scientist,Data & Analytics,Senior,Lead modelling strategy and mentor the data science team.,1800000,3800000,88.6,0
+19,Machine Learning Engineer,AI & Machine Learning,Mid,"Productionise models: training infrastructure, serving and monitoring.",1000000,2400000,98.3,0
+20,Senior Machine Learning Engineer,AI & Machine Learning,Senior,Own ML platform components and coach engineers on modelling quality.,2000000,4200000,73.0,0
+21,MLOps Engineer,AI & Machine Learning,Mid,"Automate the ML lifecycle: pipelines, registries, rollout and drift detection.",1100000,2600000,76.3,0
+22,NLP Engineer,AI & Machine Learning,Mid,Build text understanding and language generation systems.,1100000,2600000,63.8,0
+23,Computer Vision Engineer,AI & Machine Learning,Mid,Build image and video understanding models for real products.,1100000,2600000,67.1,1
+24,AI Research Engineer,AI & Machine Learning,Senior,Prototype and evaluate novel model architectures and training methods.,1800000,4000000,55.9,0
+25,Robotics Software Engineer,AI & Machine Learning,Mid,"Develop perception, planning and control software for robotic systems.",900000,2200000,55.1,0
+26,Analytics Manager,Leadership,Lead,Lead a team of analysts and own the analytical roadmap for a business unit.,1800000,3800000,65.7,0
+27,Data Science Manager,Leadership,Lead,Lead data scientists and own modelling standards and delivery.,2500000,4800000,61.1,0
+28,Product Manager,Business & Product,Senior,"Own product outcomes: discovery, prioritisation and delivery trade-offs.",1600000,3800000,80.1,0
+29,Technical Product Manager,Business & Product,Senior,Own a technical product area such as data or platform services.,2000000,4200000,66.2,0
+30,Backend Developer,Software Engineering,Mid,"Design and build service APIs, business logic and data access layers.",600000,1600000,91.0,0
+31,Senior Backend Developer,Software Engineering,Senior,"Own service architecture, reliability and review quality across a codebase.",1500000,3200000,75.7,0
+32,Frontend Developer,Software Engineering,Mid,"Build accessible, performant user interfaces from design specifications.",550000,1500000,84.1,0
+33,Full Stack Developer,Software Engineering,Mid,"Deliver features across UI, API and database layers.",700000,1700000,94.0,0
+34,Senior Full Stack Developer,Software Engineering,Senior,Lead feature delivery across the stack and set engineering standards.,1600000,3400000,79.6,0
+35,Software Engineer,Software Engineering,Entry,Write well tested code and grow into owning components independently.,600000,1400000,99.3,0
+36,Senior Software Engineer,Software Engineering,Senior,"Design systems, lead technical decisions and mentor engineers.",1600000,3600000,92.1,0
+37,DevOps Engineer,Cloud & Platform,Mid,"Automate build, deployment and infrastructure for reliable delivery.",900000,2000000,89.7,0
+38,Site Reliability Engineer,Cloud & Platform,Senior,"Own service reliability through SLOs, observability and incident response.",1300000,2900000,78.7,0
+39,Cloud Engineer,Cloud & Platform,Mid,Provision and operate cloud infrastructure and networking.,900000,2100000,77.7,0
+40,Platform Engineer,Cloud & Platform,Senior,Build internal developer platforms that speed up other teams.,1200000,2600000,65.9,0
+41,Solution Architect,Cloud & Platform,Lead,"Design end to end solutions spanning applications, data and infrastructure.",2200000,4500000,61.5,0
+42,QA Automation Engineer,Quality & Security,Mid,Automate functional and regression testing across the release pipeline.,550000,1400000,72.2,0
+43,Security Analyst,Quality & Security,Mid,"Monitor, triage and respond to security alerts and vulnerabilities.",650000,1500000,66.4,0
+44,Cybersecurity Engineer,Quality & Security,Senior,"Engineer controls, detection and hardening across infrastructure and apps.",1100000,2500000,62.2,0
+45,Mobile App Developer,Software Engineering,Mid,Build and ship native or cross platform mobile applications.,600000,1600000,68.4,0

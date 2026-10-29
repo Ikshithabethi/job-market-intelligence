@@ -1,0 +1,23 @@
+{
+  "name": "job-market-intelligence-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React + Vite frontend for the Web-Based Job Market Intelligence and Career Path Analytics application",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "cytoscape": "^3.30.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10"
+  }
+}

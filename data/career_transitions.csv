@@ -1,0 +1,121 @@
+from_role,to_role,transition_type,avg_years,difficulty,notes
+Data Analyst,Senior Data Analyst,vertical,2.0,2,Standard progression within the analytics ladder.
+Data Analyst,Business Analyst,lateral,1.5,2,Analytics delivery skills transfer well to business analysis.
+Data Analyst,Business Intelligence Analyst,lateral,1.5,2,Deeper BI modelling and dashboard ownership.
+Data Analyst,Product Analyst,lateral,1.5,2,Move closer to product decision making.
+Data Analyst,Marketing Analyst,lateral,1.0,2,Channel and campaign analytics specialisation.
+Data Analyst,Financial Analyst,lateral,1.5,3,Requires financial modelling and domain knowledge.
+Data Analyst,Risk Analyst,lateral,2.0,3,Requires risk frameworks and regulatory context.
+Data Analyst,Analytics Engineer,pivot,2.5,4,Pivot into the data transformation layer with dbt and warehouse skills.
+Data Analyst,Data Engineer,pivot,3.0,4,Pivot into pipeline engineering; needs Spark and orchestration depth.
+Data Analyst,Data Scientist,pivot,3.0,4,Pivot into modelling; needs machine learning and statistics depth.
+Senior Data Analyst,Data Scientist,pivot,2.5,3,Strong analytical base makes this a short pivot.
+Senior Data Analyst,Analytics Engineer,pivot,2.0,3,Own the semantic and transformation layer.
+Senior Data Analyst,Data Engineer,pivot,2.5,4,Add distributed processing and orchestration.
+Senior Data Analyst,Analytics Manager,vertical,2.5,3,First people-management step in analytics.
+Senior Data Analyst,Product Analyst,lateral,1.5,3,Senior analytics role closer to product.
+Business Analyst,Business Intelligence Analyst,lateral,1.5,2,Add BI modelling and visualisation depth.
+Business Analyst,Data Analyst,lateral,1.5,2,Shift from requirements to hands-on analysis.
+Business Analyst,Product Analyst,lateral,1.5,2,Analytics inside the product organisation.
+Business Analyst,Product Manager,pivot,3.0,4,Full ownership of product outcomes.
+Business Analyst,Technical Product Manager,pivot,3.0,5,Requires system design literacy.
+Business Intelligence Analyst,Senior Data Analyst,vertical,2.0,2,Grow analytical depth and ownership.
+Business Intelligence Analyst,Analytics Engineer,pivot,2.5,3,Move from reporting to modelled data.
+Business Intelligence Analyst,Data Engineer,pivot,3.0,4,Pipeline engineering pivot.
+Analytics Engineer,Data Engineer,lateral,1.5,3,"Add orchestration, streaming and cloud depth."
+Analytics Engineer,Data Scientist,pivot,2.5,4,Requires modelling and experimentation depth.
+Data Engineer,Senior Data Engineer,vertical,2.5,2,Own platform components end to end.
+Data Engineer,Analytics Engineer,lateral,1.5,3,Move up the warehouse stack.
+Data Engineer,MLOps Engineer,pivot,3.0,4,Apply platform skills to the ML lifecycle.
+Data Engineer,Cloud Engineer,pivot,2.5,4,Infrastructure and networking specialisation.
+Data Engineer,Data Architect,vertical,4.0,5,Long-horizon architecture track.
+Senior Data Engineer,Data Architect,vertical,3.0,4,Natural step into architecture.
+Senior Data Engineer,MLOps Engineer,lateral,2.0,3,Platform mindset transfers directly.
+Senior Data Engineer,Analytics Manager,pivot,3.0,4,Move into people and delivery leadership.
+Data Architect,Solution Architect,lateral,3.0,4,Broaden from data to end to end solutions.
+Data Architect,Analytics Manager,lateral,3.0,4,Leadership route with architecture context.
+Data Governance Analyst,Analytics Engineer,pivot,3.0,4,Move from policy to implementation.
+Data Governance Analyst,Data Architect,pivot,4.0,5,Long-horizon architecture track.
+Database Administrator,Data Engineer,pivot,3.0,4,Classic DBA to data engineering pivot.
+Database Administrator,Cloud Engineer,pivot,3.0,4,Cloud infrastructure specialisation.
+Database Administrator,Backend Developer,pivot,2.5,4,Add application development.
+Data Scientist,Senior Data Scientist,vertical,3.0,3,Own modelling strategy.
+Data Scientist,Machine Learning Engineer,lateral,2.0,3,Engineering heavy sibling role of data science.
+Data Scientist,Statistician,lateral,1.5,3,Methodology-focused track.
+Data Scientist,NLP Engineer,pivot,2.0,4,Specialise in language data.
+Data Scientist,Computer Vision Engineer,pivot,2.5,5,Specialise in visual data; heavy deep learning.
+Data Scientist,Data Science Manager,vertical,4.0,4,People leadership in data science.
+Data Scientist,AI Research Engineer,pivot,3.0,5,Research heavy; needs novel architecture experience.
+Senior Data Scientist,Data Science Manager,vertical,2.5,4,First management step.
+Senior Data Scientist,AI Research Engineer,pivot,2.0,5,Research track from senior level.
+Senior Data Scientist,Senior Machine Learning Engineer,lateral,2.0,3,Deepen the engineering side of modelling.
+Machine Learning Engineer,Senior Machine Learning Engineer,vertical,2.5,3,Own ML platform components.
+Machine Learning Engineer,MLOps Engineer,lateral,1.5,3,Shift from modelling to lifecycle automation.
+Machine Learning Engineer,NLP Engineer,lateral,2.0,4,Domain specialisation in language.
+Machine Learning Engineer,AI Research Engineer,pivot,3.0,5,Requires research output.
+Senior Machine Learning Engineer,MLOps Engineer,lateral,2.0,3,Platform reliability focus.
+Senior Machine Learning Engineer,AI Research Engineer,lateral,2.0,4,Research collaboration route.
+MLOps Engineer,Site Reliability Engineer,pivot,2.5,4,Reliability engineering on ML systems.
+MLOps Engineer,Cloud Engineer,lateral,2.0,3,Infrastructure focused sibling role.
+NLP Engineer,AI Research Engineer,lateral,2.0,4,Move from applied to research work.
+Computer Vision Engineer,AI Research Engineer,lateral,2.5,4,Research route with vision depth.
+Computer Vision Engineer,Robotics Software Engineer,pivot,3.0,5,Perception plus control systems.
+Robotics Software Engineer,Computer Vision Engineer,lateral,2.0,4,Shift from control to perception.
+Robotics Software Engineer,Machine Learning Engineer,lateral,2.5,4,Generalise modelling skills.
+Statistician,Data Scientist,lateral,2.0,3,Strong statistics base with added engineering.
+Statistician,Quantitative Analyst,lateral,2.5,4,Numerical and financial modelling depth.
+Quantitative Analyst,Data Scientist,lateral,2.0,4,Move into broader product modelling.
+Quantitative Analyst,Machine Learning Engineer,lateral,2.5,4,Engineering heavy modelling role.
+Financial Analyst,Risk Analyst,lateral,1.5,3,Risk frameworks and modelling.
+Financial Analyst,Quantitative Analyst,pivot,3.0,5,Heavy quantitative pivot.
+Risk Analyst,Quantitative Analyst,pivot,2.5,5,Deepen stochastic and numerical methods.
+Risk Analyst,Data Scientist,pivot,3.0,4,Apply modelling to broader problems.
+Product Analyst,Product Manager,vertical,3.0,3,Analytics to product ownership.
+Product Analyst,Data Analyst,lateral,1.5,2,Broader analytical remit.
+Marketing Analyst,Business Analyst,lateral,2.0,3,Broaden beyond marketing.
+Marketing Analyst,Product Analyst,lateral,2.0,3,Move from channels to product metrics.
+Analytics Manager,Data Science Manager,lateral,2.5,3,Broader remit across analytics and science.
+Analytics Manager,Product Manager,pivot,3.0,4,Move from insight to product ownership.
+Data Science Manager,Analytics Manager,lateral,2.0,3,Analytics leadership remit.
+Product Manager,Technical Product Manager,lateral,2.0,3,Technical product ownership.
+Technical Product Manager,Product Manager,lateral,1.5,3,Broader product ownership.
+Technical Product Manager,Solution Architect,pivot,3.0,5,Deep technical design route.
+Software Engineer,Senior Software Engineer,vertical,2.5,2,Standard engineering progression.
+Software Engineer,Backend Developer,lateral,1.5,2,Backend specialisation.
+Software Engineer,Frontend Developer,lateral,1.5,3,Frontend specialisation.
+Software Engineer,DevOps Engineer,pivot,2.5,4,Delivery automation pivot.
+Software Engineer,Data Engineer,pivot,3.0,4,Data platform pivot.
+Senior Software Engineer,Solution Architect,vertical,3.0,4,Architecture track.
+Senior Software Engineer,Platform Engineer,lateral,2.0,3,Internal platform specialisation.
+Senior Software Engineer,Technical Product Manager,pivot,3.5,5,Product route for technical leaders.
+Backend Developer,Senior Backend Developer,vertical,2.5,2,Own service architecture.
+Backend Developer,Full Stack Developer,lateral,1.5,3,Add frontend delivery skills.
+Backend Developer,Software Engineer,lateral,1.0,2,Broader engineering remit.
+Backend Developer,DevOps Engineer,pivot,2.5,4,Add delivery automation.
+Backend Developer,Data Engineer,pivot,3.0,4,Move to data movement and modelling.
+Frontend Developer,Full Stack Developer,lateral,1.5,3,Add backend and database work.
+Frontend Developer,Mobile App Developer,pivot,2.0,4,Platform specific development.
+Full Stack Developer,Senior Full Stack Developer,vertical,2.5,2,Own feature areas end to end.
+Full Stack Developer,Backend Developer,lateral,1.5,2,Depth over breadth on the server.
+Full Stack Developer,DevOps Engineer,pivot,2.5,4,Delivery automation route.
+Full Stack Developer,Technical Product Manager,pivot,3.5,5,Product route.
+Senior Backend Developer,Solution Architect,vertical,3.0,4,Architecture track.
+Senior Backend Developer,Platform Engineer,lateral,2.0,3,Platform specialisation.
+Senior Full Stack Developer,Solution Architect,vertical,3.0,4,Architecture track.
+Senior Full Stack Developer,Senior Software Engineer,lateral,1.5,3,Broaden engineering scope.
+Mobile App Developer,Full Stack Developer,pivot,2.0,4,Add web stack breadth.
+Mobile App Developer,Senior Software Engineer,vertical,3.0,4,Seniority jump plus breadth.
+DevOps Engineer,Site Reliability Engineer,lateral,2.0,3,Reliability focused sibling role.
+DevOps Engineer,Cloud Engineer,lateral,1.5,3,Cloud infrastructure specialisation.
+DevOps Engineer,Platform Engineer,lateral,2.0,3,Internal developer platform focus.
+Cloud Engineer,Site Reliability Engineer,lateral,2.0,3,Reliability engineering.
+Cloud Engineer,DevOps Engineer,lateral,1.5,3,Delivery pipeline focus.
+Site Reliability Engineer,Platform Engineer,lateral,2.0,3,Platform engineering route.
+Platform Engineer,Solution Architect,vertical,3.0,4,Architecture track.
+QA Automation Engineer,Backend Developer,pivot,3.0,4,Move from testing into development.
+QA Automation Engineer,DevOps Engineer,pivot,3.0,4,Move into delivery automation.
+QA Automation Engineer,Site Reliability Engineer,pivot,3.5,5,Reliability engineering pivot.
+Security Analyst,Cybersecurity Engineer,vertical,2.5,3,Move from monitoring to engineering.
+Security Analyst,Cloud Engineer,pivot,3.0,4,Cloud infrastructure route.
+Cybersecurity Engineer,Site Reliability Engineer,pivot,3.0,4,Reliability with security depth.
+Solution Architect,Technical Product Manager,lateral,3.0,4,Product route for architects.

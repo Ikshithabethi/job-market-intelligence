@@ -1,0 +1,148 @@
+skill_id,name,category,description
+1,Python,Programming,General purpose language widely used for data and backend work
+2,R,Programming,Statistical programming language for analysis and reporting
+3,Java,Programming,Object oriented language for enterprise backend systems
+4,JavaScript,Programming,"Language of the web, used in browser and Node.js runtimes"
+5,TypeScript,Programming,Typed superset of JavaScript used in large frontends
+6,C++,Programming,High performance language used in systems and robotics
+7,C#,Programming,Language used with the .NET platform
+8,Go,Programming,Compiled language used for services and infrastructure tooling
+9,SQL,Programming,Query language for relational databases
+10,Scala,Programming,JVM language commonly used with Apache Spark
+11,Shell Scripting,Programming,Automating tasks with bash and shell tools
+12,Kotlin,Programming,Modern language for Android and JVM services
+13,Swift,Programming,Language for Apple platform applications
+14,Rust,Programming,Memory safe systems programming language
+15,MATLAB,Programming,Numerical computing environment used in engineering
+16,PHP,Programming,Server side language used in classic web stacks
+17,Ruby,Programming,Dynamic language used with the Rails framework
+18,MySQL,Databases,Open source relational database
+19,PostgreSQL,Databases,Advanced open source relational database
+20,MongoDB,Databases,Document oriented NoSQL database
+21,Redis,Databases,In memory key value store used for caching
+22,Oracle Database,Databases,Enterprise relational database
+23,SQL Server,Databases,Microsoft relational database
+24,Snowflake,Databases,Cloud data warehouse with separated compute and storage
+25,BigQuery,Databases,Google Cloud serverless analytics warehouse
+26,Amazon Redshift,Databases,AWS columnar data warehouse
+27,Databricks,Databases,Lakehouse platform built on Apache Spark
+28,Cassandra,Databases,Distributed wide column NoSQL database
+29,Elasticsearch,Databases,Distributed search and analytics engine
+30,Apache Spark,Data Engineering,Distributed data processing engine
+31,Apache Airflow,Data Engineering,Workflow orchestration for data pipelines
+32,Apache Kafka,Data Engineering,Distributed event streaming platform
+33,dbt,Data Engineering,SQL based transformation framework for analytics
+34,ETL Pipelines,Data Engineering,Extract transform load data movement design
+35,Apache Hadoop,Data Engineering,Distributed storage and batch processing framework
+36,Apache Hive,Data Engineering,SQL layer over Hadoop distributed storage
+37,Data Modeling,Data Engineering,Designing normalized and dimensional schemas
+38,Data Warehousing,Data Engineering,Designing analytical storage layers
+39,Delta Lake,Data Engineering,Transactional storage layer for lakehouse tables
+40,Apache Flink,Data Engineering,Stream processing engine with event time semantics
+41,Pandas,Data Engineering,Python data manipulation library
+42,NumPy,Data Engineering,Python numerical computing library
+43,Data Quality,Data Engineering,"Testing, monitoring and improving dataset accuracy"
+44,Data Governance,Data Engineering,"Policies, lineage and access control for data assets"
+45,Machine Learning,Machine Learning,Building models that learn patterns from data
+46,Deep Learning,Machine Learning,Neural network based model development
+47,Scikit-learn,Machine Learning,Classical machine learning library in Python
+48,TensorFlow,Machine Learning,Deep learning framework by Google
+49,PyTorch,Machine Learning,Deep learning framework popular in research
+50,Keras,Machine Learning,High level neural network API
+51,Natural Language Processing,Machine Learning,Working with text data and language models
+52,Computer Vision,Machine Learning,Image and video understanding with models
+53,Reinforcement Learning,Machine Learning,Learning policies through reward signals
+54,Feature Engineering,Machine Learning,Creating informative model inputs
+55,Model Deployment,Machine Learning,Serving trained models in production
+56,MLflow,Machine Learning,Experiment tracking and model registry
+57,Kubeflow,Machine Learning,Running ML pipelines on Kubernetes
+58,Hyperparameter Tuning,Machine Learning,Searching model configurations systematically
+59,Recommender Systems,Machine Learning,Ranking and personalisation models
+60,Time Series Analysis,Machine Learning,Forecasting and temporal pattern modelling
+61,Generative AI,Machine Learning,Building with generative models
+62,Large Language Models,Machine Learning,Working with transformer based language models
+63,Retrieval Augmented Generation,Machine Learning,Grounding LLM answers in retrieved documents
+64,Prompt Engineering,Machine Learning,Designing effective prompts for LLMs
+65,Transformers,Machine Learning,Attention based neural network architecture
+66,MLOps,Machine Learning,Operating machine learning systems in production
+67,Statistics,Statistics,Descriptive and inferential statistical reasoning
+68,A/B Testing,Statistics,Designing and reading controlled experiments
+69,Hypothesis Testing,Statistics,Formal statistical decision making
+70,Regression Analysis,Statistics,Modelling relationships between variables
+71,Bayesian Statistics,Statistics,Probabilistic modelling with priors
+72,Probability,Statistics,Foundations of uncertainty and random variables
+73,Experimental Design,Statistics,Planning experiments to avoid bias
+74,Causal Inference,Statistics,Estimating causal effects from observational data
+75,Tableau,Visualization,Self service business intelligence tool
+76,Power BI,Visualization,Microsoft business intelligence platform
+77,Looker,Visualization,Cloud BI and semantic modelling tool
+78,Matplotlib,Visualization,Python plotting library
+79,Seaborn,Visualization,Statistical plotting library built on Matplotlib
+80,Plotly,Visualization,Interactive charting library
+81,Google Analytics,Visualization,Web and product traffic analytics
+82,Microsoft Excel,Visualization,Spreadsheet analysis and quick modelling
+83,Data Storytelling,Visualization,Turning analysis into a clear narrative
+84,Dashboard Design,Visualization,Designing usable analytical dashboards
+85,Streamlit,Visualization,Fast Python apps for data demos
+86,AWS,Cloud & DevOps,Amazon Web Services cloud platform
+87,Microsoft Azure,Cloud & DevOps,Microsoft cloud platform
+88,Google Cloud Platform,Cloud & DevOps,Google cloud platform
+89,Docker,Cloud & DevOps,Container packaging and runtime
+90,Kubernetes,Cloud & DevOps,Container orchestration platform
+91,Terraform,Cloud & DevOps,Declarative infrastructure as code tool
+92,CI/CD,Cloud & DevOps,"Automated build, test and release pipelines"
+93,Jenkins,Cloud & DevOps,Automation server for build pipelines
+94,Linux,Cloud & DevOps,Unix like operating system administration
+95,Git,Cloud & DevOps,Distributed version control system
+96,GitHub Actions,Cloud & DevOps,CI/CD workflows hosted on GitHub
+97,Prometheus,Cloud & DevOps,Metrics collection and alerting system
+98,Grafana,Cloud & DevOps,Monitoring and observability dashboards
+99,Ansible,Cloud & DevOps,Agentless configuration management
+100,Serverless Computing,Cloud & DevOps,Functions as a service application design
+101,Cloud Security,Cloud & DevOps,"Securing cloud accounts, networks and data"
+102,Site Reliability Practices,Cloud & DevOps,"SLIs, SLOs, error budgets and toil reduction"
+103,Infrastructure as Code,Cloud & DevOps,Managing environments through versioned code
+104,React,Web & Software,Component based frontend library
+105,Node.js,Web & Software,JavaScript runtime for servers
+106,Express.js,Web & Software,Minimal Node.js web framework
+107,REST API Design,Web & Software,Designing resource oriented HTTP APIs
+108,GraphQL,Web & Software,Query language for APIs
+109,HTML,Web & Software,Markup language for web documents
+110,CSS,Web & Software,Styling language for web interfaces
+111,Spring Boot,Web & Software,Java framework for production services
+112,Django,Web & Software,Batteries included Python web framework
+113,Flask,Web & Software,Lightweight Python web framework
+114,FastAPI,Web & Software,Typed async Python API framework
+115,Microservices,Web & Software,Decomposing systems into independent services
+116,Redux,Web & Software,Predictable state container for React apps
+117,Next.js,Web & Software,React framework with server rendering
+118,Jest,Web & Software,JavaScript testing framework
+119,System Design,Web & Software,Designing scalable distributed systems
+120,Object Oriented Design,Web & Software,Designing maintainable class structures
+121,Test Automation,Web & Software,Automating regression test suites
+122,Selenium,Web & Software,Browser automation tool for testing
+123,Playwright,Web & Software,Modern cross browser automation framework
+124,Network Security,Security,Protecting networks from intrusion
+125,Penetration Testing,Security,Ethically attacking systems to find flaws
+126,SIEM Tools,Security,Centralised security event monitoring
+127,Threat Modeling,Security,Structured analysis of security threats
+128,Cryptography,Security,"Encryption, hashing and key management"
+129,Identity and Access Management,Security,Authentication and authorisation systems
+130,Incident Response,Security,Detecting and containing security incidents
+131,Communication,Business & Soft Skills,Explaining technical work to mixed audiences
+132,Problem Solving,Business & Soft Skills,Structured decomposition of ambiguous problems
+133,Stakeholder Management,Business & Soft Skills,Aligning business partners and delivery teams
+134,Team Collaboration,Business & Soft Skills,Working effectively in cross functional teams
+135,Agile Scrum,Business & Soft Skills,Iterative delivery ceremonies and practices
+136,Presentation Skills,Business & Soft Skills,Presenting findings and recommendations
+137,Critical Thinking,Business & Soft Skills,Challenging assumptions with evidence
+138,Mentoring,Business & Soft Skills,Growing junior team members
+139,Technical Documentation,Business & Soft Skills,"Writing clear specs, runbooks and reports"
+140,Product Thinking,Business & Soft Skills,Prioritising work by user and business value
+141,Domain Knowledge BFSI,Business & Soft Skills,"Banking, financial services and insurance context"
+142,Domain Knowledge Healthcare,Business & Soft Skills,Healthcare and life sciences context
+143,Domain Knowledge E-commerce,Business & Soft Skills,Retail and marketplace context
+144,Requirement Gathering,Business & Soft Skills,Eliciting and documenting business needs
+145,Process Improvement,Business & Soft Skills,Removing waste from existing workflows
+146,Financial Modeling,Business & Soft Skills,Forecasting and valuation models
+147,Risk Analysis,Business & Soft Skills,Identifying and quantifying business risk

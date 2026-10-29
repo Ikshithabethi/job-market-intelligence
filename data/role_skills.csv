@@ -1,0 +1,509 @@
+role_title,skill_name,importance
+Data Analyst,SQL,5
+Data Analyst,Python,5
+Data Analyst,Microsoft Excel,5
+Data Analyst,Tableau,4
+Data Analyst,Statistics,4
+Data Analyst,Communication,4
+Data Analyst,Data Storytelling,3
+Data Analyst,Power BI,3
+Data Analyst,Dashboard Design,3
+Data Analyst,A/B Testing,2
+Data Analyst,Problem Solving,2
+Data Analyst,Requirement Gathering,2
+Senior Data Analyst,SQL,5
+Senior Data Analyst,Python,5
+Senior Data Analyst,Tableau,5
+Senior Data Analyst,Statistics,4
+Senior Data Analyst,Data Storytelling,4
+Senior Data Analyst,Communication,4
+Senior Data Analyst,Power BI,3
+Senior Data Analyst,Dashboard Design,3
+Senior Data Analyst,Stakeholder Management,3
+Senior Data Analyst,Mentoring,2
+Senior Data Analyst,Process Improvement,2
+Senior Data Analyst,Data Modeling,2
+Business Analyst,Requirement Gathering,5
+Business Analyst,Communication,5
+Business Analyst,SQL,5
+Business Analyst,Microsoft Excel,4
+Business Analyst,Stakeholder Management,4
+Business Analyst,Process Improvement,4
+Business Analyst,Problem Solving,3
+Business Analyst,Presentation Skills,3
+Business Analyst,Agile Scrum,3
+Business Analyst,Domain Knowledge BFSI,2
+Business Analyst,Power BI,2
+Business Analyst,Technical Documentation,2
+Business Intelligence Analyst,SQL,5
+Business Intelligence Analyst,Power BI,5
+Business Intelligence Analyst,Dashboard Design,5
+Business Intelligence Analyst,Data Modeling,4
+Business Intelligence Analyst,Microsoft Excel,4
+Business Intelligence Analyst,Data Warehousing,4
+Business Intelligence Analyst,Communication,3
+Business Intelligence Analyst,Tableau,3
+Business Intelligence Analyst,Data Storytelling,3
+Business Intelligence Analyst,ETL Pipelines,2
+Business Intelligence Analyst,Looker,2
+Product Analyst,SQL,5
+Product Analyst,Python,5
+Product Analyst,A/B Testing,5
+Product Analyst,Statistics,4
+Product Analyst,Product Thinking,4
+Product Analyst,Dashboard Design,4
+Product Analyst,Google Analytics,3
+Product Analyst,Data Storytelling,3
+Product Analyst,Communication,3
+Product Analyst,Experimental Design,2
+Product Analyst,Streamlit,2
+Marketing Analyst,SQL,5
+Marketing Analyst,Microsoft Excel,5
+Marketing Analyst,Google Analytics,5
+Marketing Analyst,Data Storytelling,4
+Marketing Analyst,Communication,4
+Marketing Analyst,Power BI,4
+Marketing Analyst,Statistics,3
+Marketing Analyst,A/B Testing,3
+Marketing Analyst,Dashboard Design,3
+Marketing Analyst,Presentation Skills,2
+Financial Analyst,Microsoft Excel,5
+Financial Analyst,Financial Modeling,5
+Financial Analyst,SQL,5
+Financial Analyst,Statistics,4
+Financial Analyst,Risk Analysis,4
+Financial Analyst,Communication,4
+Financial Analyst,Power BI,3
+Financial Analyst,Regression Analysis,3
+Financial Analyst,Presentation Skills,3
+Financial Analyst,Domain Knowledge BFSI,2
+Risk Analyst,Risk Analysis,5
+Risk Analyst,SQL,5
+Risk Analyst,Statistics,5
+Risk Analyst,Microsoft Excel,4
+Risk Analyst,Python,4
+Risk Analyst,Regression Analysis,4
+Risk Analyst,Domain Knowledge BFSI,3
+Risk Analyst,Communication,3
+Risk Analyst,Critical Thinking,3
+Risk Analyst,Power BI,2
+Quantitative Analyst,Python,5
+Quantitative Analyst,Statistics,5
+Quantitative Analyst,Probability,5
+Quantitative Analyst,Regression Analysis,4
+Quantitative Analyst,Time Series Analysis,4
+Quantitative Analyst,SQL,4
+Quantitative Analyst,Bayesian Statistics,3
+Quantitative Analyst,Financial Modeling,3
+Quantitative Analyst,R,3
+Quantitative Analyst,MATLAB,2
+Statistician,Statistics,5
+Statistician,Probability,5
+Statistician,Hypothesis Testing,5
+Statistician,R,4
+Statistician,Regression Analysis,4
+Statistician,Experimental Design,4
+Statistician,Bayesian Statistics,3
+Statistician,A/B Testing,3
+Statistician,Causal Inference,3
+Statistician,Python,2
+Analytics Engineer,SQL,5
+Analytics Engineer,dbt,5
+Analytics Engineer,Data Modeling,5
+Analytics Engineer,Data Warehousing,4
+Analytics Engineer,Snowflake,4
+Analytics Engineer,Python,4
+Analytics Engineer,ETL Pipelines,3
+Analytics Engineer,Git,3
+Analytics Engineer,Dashboard Design,3
+Analytics Engineer,Data Quality,2
+Analytics Engineer,Power BI,2
+Analytics Engineer,Delta Lake,2
+Data Engineer,SQL,5
+Data Engineer,Python,5
+Data Engineer,ETL Pipelines,5
+Data Engineer,Apache Spark,4
+Data Engineer,Data Modeling,4
+Data Engineer,Apache Airflow,4
+Data Engineer,Apache Hadoop,3
+Data Engineer,Apache Hive,3
+Data Engineer,Data Warehousing,3
+Data Engineer,AWS,2
+Data Engineer,Git,2
+Data Engineer,Docker,2
+Data Engineer,Apache Kafka,2
+Data Engineer,Linux,2
+Data Engineer,Data Quality,2
+Senior Data Engineer,SQL,5
+Senior Data Engineer,Python,5
+Senior Data Engineer,Apache Spark,5
+Senior Data Engineer,Data Modeling,4
+Senior Data Engineer,Apache Airflow,4
+Senior Data Engineer,Apache Hadoop,4
+Senior Data Engineer,Data Warehousing,3
+Senior Data Engineer,Kubernetes,3
+Senior Data Engineer,Apache Kafka,3
+Senior Data Engineer,Databricks,2
+Senior Data Engineer,Team Collaboration,2
+Senior Data Engineer,Mentoring,2
+Senior Data Engineer,System Design,2
+Senior Data Engineer,Data Quality,2
+Data Architect,Data Modeling,5
+Data Architect,Data Warehousing,5
+Data Architect,Data Governance,5
+Data Architect,System Design,4
+Data Architect,Data Quality,4
+Data Architect,AWS,4
+Data Architect,Snowflake,3
+Data Architect,Kubernetes,3
+Data Architect,Stakeholder Management,3
+Data Architect,Mentoring,2
+Data Architect,Technical Documentation,2
+Data Architect,Delta Lake,2
+Data Governance Analyst,Data Governance,5
+Data Governance Analyst,Data Quality,5
+Data Governance Analyst,SQL,5
+Data Governance Analyst,Data Modeling,4
+Data Governance Analyst,Communication,4
+Data Governance Analyst,Domain Knowledge BFSI,4
+Data Governance Analyst,Technical Documentation,3
+Data Governance Analyst,Process Improvement,3
+Data Governance Analyst,Data Warehousing,3
+Data Governance Analyst,Stakeholder Management,2
+Database Administrator,MySQL,5
+Database Administrator,PostgreSQL,5
+Database Administrator,SQL,5
+Database Administrator,Linux,4
+Database Administrator,Oracle Database,4
+Database Administrator,Data Modeling,4
+Database Administrator,Shell Scripting,3
+Database Administrator,AWS,3
+Database Administrator,Data Warehousing,3
+Database Administrator,Incident Response,2
+Data Scientist,Python,5
+Data Scientist,Statistics,5
+Data Scientist,Machine Learning,5
+Data Scientist,SQL,4
+Data Scientist,Scikit-learn,4
+Data Scientist,Feature Engineering,4
+Data Scientist,Pandas,3
+Data Scientist,Data Storytelling,3
+Data Scientist,Hypothesis Testing,3
+Data Scientist,Deep Learning,2
+Data Scientist,Communication,2
+Data Scientist,Large Language Models,2
+Senior Data Scientist,Python,5
+Senior Data Scientist,Machine Learning,5
+Senior Data Scientist,Statistics,5
+Senior Data Scientist,Feature Engineering,4
+Senior Data Scientist,Deep Learning,4
+Senior Data Scientist,MLOps,4
+Senior Data Scientist,Model Deployment,3
+Senior Data Scientist,Communication,3
+Senior Data Scientist,Mentoring,3
+Senior Data Scientist,Stakeholder Management,2
+Senior Data Scientist,Scikit-learn,2
+Senior Data Scientist,Generative AI,2
+Machine Learning Engineer,Python,5
+Machine Learning Engineer,Machine Learning,5
+Machine Learning Engineer,PyTorch,5
+Machine Learning Engineer,Model Deployment,4
+Machine Learning Engineer,Docker,4
+Machine Learning Engineer,MLOps,4
+Machine Learning Engineer,Scikit-learn,3
+Machine Learning Engineer,MLflow,3
+Machine Learning Engineer,Kubernetes,3
+Machine Learning Engineer,Feature Engineering,2
+Machine Learning Engineer,FastAPI,2
+Machine Learning Engineer,Generative AI,2
+Senior Machine Learning Engineer,Python,5
+Senior Machine Learning Engineer,Machine Learning,5
+Senior Machine Learning Engineer,PyTorch,5
+Senior Machine Learning Engineer,MLOps,4
+Senior Machine Learning Engineer,Model Deployment,4
+Senior Machine Learning Engineer,Kubernetes,4
+Senior Machine Learning Engineer,Kubeflow,3
+Senior Machine Learning Engineer,MLflow,3
+Senior Machine Learning Engineer,Team Collaboration,3
+Senior Machine Learning Engineer,Mentoring,2
+Senior Machine Learning Engineer,System Design,2
+Senior Machine Learning Engineer,Deep Learning,2
+MLOps Engineer,Python,5
+MLOps Engineer,Docker,5
+MLOps Engineer,Kubernetes,5
+MLOps Engineer,MLOps,4
+MLOps Engineer,MLflow,4
+MLOps Engineer,CI/CD,4
+MLOps Engineer,Model Deployment,3
+MLOps Engineer,Terraform,3
+MLOps Engineer,AWS,3
+MLOps Engineer,Apache Airflow,2
+MLOps Engineer,Prometheus,2
+MLOps Engineer,Grafana,2
+MLOps Engineer,Linux,2
+NLP Engineer,Python,5
+NLP Engineer,Natural Language Processing,5
+NLP Engineer,Deep Learning,5
+NLP Engineer,Transformers,4
+NLP Engineer,PyTorch,4
+NLP Engineer,Feature Engineering,4
+NLP Engineer,Model Deployment,3
+NLP Engineer,Large Language Models,3
+NLP Engineer,Retrieval Augmented Generation,3
+NLP Engineer,Prompt Engineering,2
+NLP Engineer,Communication,2
+Computer Vision Engineer,Python,5
+Computer Vision Engineer,Computer Vision,5
+Computer Vision Engineer,Deep Learning,5
+Computer Vision Engineer,PyTorch,4
+Computer Vision Engineer,TensorFlow,4
+Computer Vision Engineer,Feature Engineering,4
+Computer Vision Engineer,Model Deployment,3
+Computer Vision Engineer,C++,3
+Computer Vision Engineer,Communication,3
+Computer Vision Engineer,Keras,2
+AI Research Engineer,Python,5
+AI Research Engineer,Deep Learning,5
+AI Research Engineer,PyTorch,5
+AI Research Engineer,Transformers,4
+AI Research Engineer,Reinforcement Learning,4
+AI Research Engineer,Generative AI,4
+AI Research Engineer,Large Language Models,3
+AI Research Engineer,Hyperparameter Tuning,3
+AI Research Engineer,Technical Documentation,3
+AI Research Engineer,Critical Thinking,2
+Robotics Software Engineer,C++,5
+Robotics Software Engineer,Python,5
+Robotics Software Engineer,Computer Vision,5
+Robotics Software Engineer,Linux,4
+Robotics Software Engineer,Reinforcement Learning,4
+Robotics Software Engineer,Deep Learning,4
+Robotics Software Engineer,Problem Solving,3
+Robotics Software Engineer,Object Oriented Design,3
+Robotics Software Engineer,Team Collaboration,3
+Robotics Software Engineer,MATLAB,2
+Analytics Manager,SQL,5
+Analytics Manager,Communication,5
+Analytics Manager,Stakeholder Management,5
+Analytics Manager,Data Storytelling,4
+Analytics Manager,Team Collaboration,4
+Analytics Manager,Agile Scrum,4
+Analytics Manager,Mentoring,3
+Analytics Manager,Presentation Skills,3
+Analytics Manager,Problem Solving,3
+Analytics Manager,Tableau,2
+Data Science Manager,Machine Learning,5
+Data Science Manager,Communication,5
+Data Science Manager,Stakeholder Management,5
+Data Science Manager,Mentoring,4
+Data Science Manager,Python,4
+Data Science Manager,Product Thinking,4
+Data Science Manager,Agile Scrum,3
+Data Science Manager,Presentation Skills,3
+Data Science Manager,Team Collaboration,3
+Data Science Manager,Statistics,2
+Product Manager,Product Thinking,5
+Product Manager,Communication,5
+Product Manager,Stakeholder Management,5
+Product Manager,Requirement Gathering,4
+Product Manager,Agile Scrum,4
+Product Manager,Presentation Skills,4
+Product Manager,SQL,3
+Product Manager,Critical Thinking,3
+Product Manager,Problem Solving,3
+Product Manager,Google Analytics,2
+Technical Product Manager,Product Thinking,5
+Technical Product Manager,System Design,5
+Technical Product Manager,Communication,5
+Technical Product Manager,Stakeholder Management,4
+Technical Product Manager,SQL,4
+Technical Product Manager,REST API Design,4
+Technical Product Manager,Agile Scrum,3
+Technical Product Manager,Technical Documentation,3
+Technical Product Manager,Critical Thinking,3
+Technical Product Manager,Mentoring,2
+Backend Developer,Node.js,5
+Backend Developer,SQL,5
+Backend Developer,REST API Design,5
+Backend Developer,JavaScript,4
+Backend Developer,Git,4
+Backend Developer,Docker,4
+Backend Developer,MongoDB,3
+Backend Developer,Microservices,3
+Backend Developer,Express.js,3
+Backend Developer,Team Collaboration,2
+Backend Developer,Redis,2
+Backend Developer,Linux,2
+Senior Backend Developer,Node.js,5
+Senior Backend Developer,SQL,5
+Senior Backend Developer,System Design,5
+Senior Backend Developer,Microservices,4
+Senior Backend Developer,Docker,4
+Senior Backend Developer,Kubernetes,4
+Senior Backend Developer,REST API Design,3
+Senior Backend Developer,Redis,3
+Senior Backend Developer,Team Collaboration,3
+Senior Backend Developer,Mentoring,2
+Senior Backend Developer,PostgreSQL,2
+Senior Backend Developer,CI/CD,2
+Frontend Developer,JavaScript,5
+Frontend Developer,React,5
+Frontend Developer,HTML,5
+Frontend Developer,CSS,4
+Frontend Developer,Redux,4
+Frontend Developer,Git,4
+Frontend Developer,TypeScript,3
+Frontend Developer,Next.js,3
+Frontend Developer,REST API Design,3
+Frontend Developer,Team Collaboration,2
+Frontend Developer,Jest,2
+Full Stack Developer,JavaScript,5
+Full Stack Developer,React,5
+Full Stack Developer,Node.js,5
+Full Stack Developer,SQL,4
+Full Stack Developer,REST API Design,4
+Full Stack Developer,HTML,4
+Full Stack Developer,CSS,3
+Full Stack Developer,Git,3
+Full Stack Developer,MongoDB,3
+Full Stack Developer,TypeScript,2
+Full Stack Developer,Express.js,2
+Full Stack Developer,Docker,2
+Full Stack Developer,Agile Scrum,2
+Senior Full Stack Developer,JavaScript,5
+Senior Full Stack Developer,React,5
+Senior Full Stack Developer,Node.js,5
+Senior Full Stack Developer,SQL,4
+Senior Full Stack Developer,System Design,4
+Senior Full Stack Developer,TypeScript,4
+Senior Full Stack Developer,REST API Design,3
+Senior Full Stack Developer,Docker,3
+Senior Full Stack Developer,Kubernetes,3
+Senior Full Stack Developer,Team Collaboration,2
+Senior Full Stack Developer,Mentoring,2
+Senior Full Stack Developer,CI/CD,2
+Software Engineer,Java,5
+Software Engineer,SQL,5
+Software Engineer,Git,5
+Software Engineer,Object Oriented Design,4
+Software Engineer,Problem Solving,4
+Software Engineer,Communication,4
+Software Engineer,Data Modeling,3
+Software Engineer,Docker,3
+Software Engineer,Linux,3
+Software Engineer,Agile Scrum,2
+Software Engineer,Jest,2
+Senior Software Engineer,Java,5
+Senior Software Engineer,System Design,5
+Senior Software Engineer,SQL,5
+Senior Software Engineer,Microservices,4
+Senior Software Engineer,Docker,4
+Senior Software Engineer,Kubernetes,4
+Senior Software Engineer,CI/CD,3
+Senior Software Engineer,Object Oriented Design,3
+Senior Software Engineer,Team Collaboration,3
+Senior Software Engineer,Mentoring,2
+Senior Software Engineer,Spring Boot,2
+Senior Software Engineer,AWS,2
+DevOps Engineer,Docker,5
+DevOps Engineer,Kubernetes,5
+DevOps Engineer,CI/CD,5
+DevOps Engineer,AWS,4
+DevOps Engineer,Terraform,4
+DevOps Engineer,Linux,4
+DevOps Engineer,Git,3
+DevOps Engineer,Ansible,3
+DevOps Engineer,Prometheus,3
+DevOps Engineer,Shell Scripting,2
+DevOps Engineer,Grafana,2
+DevOps Engineer,Jenkins,2
+Site Reliability Engineer,Kubernetes,5
+Site Reliability Engineer,Linux,5
+Site Reliability Engineer,Prometheus,5
+Site Reliability Engineer,Grafana,4
+Site Reliability Engineer,Site Reliability Practices,4
+Site Reliability Engineer,Docker,4
+Site Reliability Engineer,AWS,3
+Site Reliability Engineer,Terraform,3
+Site Reliability Engineer,Python,3
+Site Reliability Engineer,Incident Response,2
+Site Reliability Engineer,CI/CD,2
+Site Reliability Engineer,Git,2
+Cloud Engineer,AWS,5
+Cloud Engineer,Terraform,5
+Cloud Engineer,Linux,5
+Cloud Engineer,Docker,4
+Cloud Engineer,Kubernetes,4
+Cloud Engineer,Cloud Security,4
+Cloud Engineer,Infrastructure as Code,3
+Cloud Engineer,Ansible,3
+Cloud Engineer,CI/CD,3
+Cloud Engineer,Serverless Computing,2
+Cloud Engineer,Python,2
+Cloud Engineer,Git,2
+Platform Engineer,Kubernetes,5
+Platform Engineer,Docker,5
+Platform Engineer,Terraform,5
+Platform Engineer,CI/CD,4
+Platform Engineer,Linux,4
+Platform Engineer,Infrastructure as Code,4
+Platform Engineer,Go,3
+Platform Engineer,Prometheus,3
+Platform Engineer,AWS,3
+Platform Engineer,System Design,2
+Platform Engineer,Team Collaboration,2
+Platform Engineer,Site Reliability Practices,2
+Solution Architect,System Design,5
+Solution Architect,Microservices,5
+Solution Architect,AWS,5
+Solution Architect,Data Modeling,4
+Solution Architect,Stakeholder Management,4
+Solution Architect,Technical Documentation,4
+Solution Architect,Team Collaboration,3
+Solution Architect,Mentoring,3
+Solution Architect,Docker,3
+Solution Architect,Kubernetes,2
+Solution Architect,Domain Knowledge E-commerce,2
+Solution Architect,Communication,2
+QA Automation Engineer,Selenium,5
+QA Automation Engineer,Java,5
+QA Automation Engineer,Test Automation,5
+QA Automation Engineer,SQL,4
+QA Automation Engineer,Git,4
+QA Automation Engineer,Playwright,4
+QA Automation Engineer,CI/CD,3
+QA Automation Engineer,Problem Solving,3
+QA Automation Engineer,Communication,3
+QA Automation Engineer,Agile Scrum,2
+QA Automation Engineer,Jest,2
+Security Analyst,Network Security,5
+Security Analyst,SIEM Tools,5
+Security Analyst,Incident Response,5
+Security Analyst,Linux,4
+Security Analyst,Communication,4
+Security Analyst,Threat Modeling,4
+Security Analyst,Problem Solving,3
+Security Analyst,Python,3
+Security Analyst,Identity and Access Management,3
+Security Analyst,Cryptography,2
+Cybersecurity Engineer,Network Security,5
+Cybersecurity Engineer,Penetration Testing,5
+Cybersecurity Engineer,Cloud Security,5
+Cybersecurity Engineer,Cryptography,4
+Cybersecurity Engineer,Identity and Access Management,4
+Cybersecurity Engineer,Threat Modeling,4
+Cybersecurity Engineer,Python,3
+Cybersecurity Engineer,Linux,3
+Cybersecurity Engineer,Docker,3
+Cybersecurity Engineer,Technical Documentation,2
+Cybersecurity Engineer,Incident Response,2
+Mobile App Developer,Kotlin,5
+Mobile App Developer,Java,5
+Mobile App Developer,Swift,5
+Mobile App Developer,React,4
+Mobile App Developer,REST API Design,4
+Mobile App Developer,Git,4
+Mobile App Developer,Problem Solving,3
+Mobile App Developer,Team Collaboration,3
+Mobile App Developer,Agile Scrum,3
+Mobile App Developer,Object Oriented Design,2

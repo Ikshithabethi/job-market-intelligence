@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+python-analysis/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment files (never commit real credentials)
+.env
+.env.local
+.env.*.local
+
+# Python analysis artefacts
+python-analysis/output/
+python-analysis/plots/
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Build output
+frontend/dist/
+dist/
+build/
